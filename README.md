@@ -16,7 +16,7 @@ por
 B="["+("#"*(percentual))+"]"; (Qualquer Versão) 
 
 
-## Execute o código
+## Execute o código:
 
 Acesse: https://www.onlinegdb.com/online_python_compiler
 
