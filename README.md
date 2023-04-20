@@ -3,11 +3,11 @@ Um exemplo de barra de progresso em python para o terminal.
 
 Execute pelo menos em python3.6.x.
 
-Pois,nas versões anteriores 'x' fica limitado à 0<=x<=256 na função chr(x).
+Pois,nas versões anteriores "x" fica limitado à 0<=x<=256 na função chr(x).
 
 Mas, você pode usar outro caractere, exemplo:"#" 
 
-Troque no script 'ProgressBar.py'
+Troque no script "ProgressBar.py"
 
 B="["+(chr(9632)*(percentual))+"]";
 
