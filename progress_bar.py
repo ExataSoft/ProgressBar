@@ -1,4 +1,3 @@
-
 '''------------------------------------------- 
 Um exemplo de barra de progresso em python   
 para o terminal. Execute pelo menos em  
