@@ -1,5 +1,5 @@
 # ProgressBar
-Um exemplo de barra de progresso em python para o terminal. 
+Um exemplo simples de barra de progresso em python para o terminal. 
 
 Execute pelo menos em python3.6.x.
 
