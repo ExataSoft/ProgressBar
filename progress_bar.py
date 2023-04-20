@@ -1,5 +1,5 @@
 
- '''------------------------------------------- 
+'''------------------------------------------- 
 Um exemplo de barra de progresso em python   
 para o terminal. Execute pelo menos em  
 python3.6.x, pois, função chr(x); x fica     
